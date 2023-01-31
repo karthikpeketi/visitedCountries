@@ -1,0 +1,32 @@
+.list-item {
+  border: 1px solid #94a3b8;
+  background-color: #1f1f2f;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.country-name {
+  font-weight: bold;
+  color: #ffffff;
+}
+.visit-styling {
+  background-color: #3b82f6;
+  color: #ffffff;
+  border-radius: 5px;
+  height: 28px;
+  width: 70px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+.visited-styling {
+  background-color: transparent;
+  color: #ffffff;
+  border: none;
+  height: 28px;
+  width: 70px;
+  cursor: pointer;
+}

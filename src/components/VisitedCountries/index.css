@@ -1,0 +1,31 @@
+.each-visited-country-container {
+  background-color: #334155;
+  margin: 10px;
+  min-width: 160px;
+  max-width: 400px;
+}
+.each-country-thumbnail {
+  width: 100%;
+}
+.each-country-functionalities {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Roboto';
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.each-country-name {
+  font-size: 16px;
+  color: white;
+}
+.remove-button {
+  border: 2px solid #94a3b8;
+  height: 24px;
+  width: 80px;
+  background-color: transparent;
+  color: #ffffff;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+}
